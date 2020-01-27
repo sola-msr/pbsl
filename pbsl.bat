@@ -4,7 +4,7 @@ REM PHP Builtin Server Launcher -PBSL-
 cd /d %~dp0
 
 REM --- config (Rewrite depending on your environment.) ---
-SET SERVE_DIR=C:\php
+SET SERVE_DIR=C:\your\project\directory
 SET PORT=8001
 
 REM ---------------------------------------------------
